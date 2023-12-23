@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@700&family=Baloo+Tammudu+2:wght@500&family=Gasoek+One&family=Wendy+One&display=swap');
+
+h2{
+    font-family: 'Baloo Tamma 2';
+}
+
+body{
+    background-image: url('log.jpg');
+}
